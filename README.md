@@ -6,7 +6,7 @@
 
   <a href="https://juliadooby.github.io/Pacman-game/"><strong>➥Demo</strong></a>
 
-<div align="center"><img src="https://github.com/juliaDooby/Pacman-game/blob/main/Pacman_1.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Pacman-game/blob/main/Pacman_1.JPG" width="40%" height="20%"></img></div>
 
 ---
 
